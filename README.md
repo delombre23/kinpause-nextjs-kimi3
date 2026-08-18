@@ -1,0 +1,1 @@
+# kinpause-nextjs-kimi3
